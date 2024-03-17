@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript, Data Structures**
 
-- 📫 How to reach me **adilsaberi01@gmail.com**
+- 📫 How to reach me **hamysab@gmail.com**
 
 - ⚡ Fun fact **hamysab**
 
