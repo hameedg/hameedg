@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **React Js, Redux, Azure**
+- 🌱 I’m currently learning ** Devops - AWS, Azure**
 
 - 💬 Ask me about **JavaScript, Data Structures**
 
